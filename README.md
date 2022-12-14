@@ -4,7 +4,7 @@
 
 Blog posts are located in `src/posts`.
 Create a new post by copying over one of the existing posts, and adapt it as needed.
-Open a Pull Request. After a couple of seconds, there'll be a comment by the Netlify Bot that contains a deploy preview, which you can use to check how your blog looks when published.
+Open a Pull Request. After a couple of seconds, there'll be a comment by the Netlify Bot that links to a deploy preview, which you can use to check how your blog looks when published.
 
 ## Running locally
 
